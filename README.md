@@ -46,14 +46,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<table align="center" border="0">
-<tr>
-  <td width="50%" align="center">
-    <img alt="Matias Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=MatiasKV0&theme=chartreuse-dark&hide_border=true" />
-  </td>
-  <td width="50%" align="center">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MatiasKV0&theme=chartreuse-dark&hide_border=true&no-bg=true&no-frame=true&langs_count=6&layout=compact"/>
-  </td>
-</tr>
-</table>
+    <div style="display: flex; justify-content: center; align-items: flex-start; gap: 15px; flex-wrap: wrap;">
+        <img alt="Matias GitHub Stats" style="height: 200px;" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=MatiasKV0&theme=chartreuse-dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" />
+        <img alt="Matias Top Languages" style="height: 200px;" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MatiasKV0&theme=chartreuse-dark&hide_border=true&no-bg=true&no-frame=true&langs_count=6&layout=compact"/>
+    </div>
 </div>
