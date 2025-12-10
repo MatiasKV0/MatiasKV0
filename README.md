@@ -47,7 +47,7 @@
 
 <div align="center">
     <div style="display: flex; justify-content: center; align-items: flex-start; gap: 15px; flex-wrap: wrap;">
-        <img alt="Matias GitHub Stats" style="height: 130px;" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=MatiasKV0&theme=chartreuse-dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" />
-        <img alt="Matias Top Languages" style="height: 130px;" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MatiasKV0&theme=chartreuse-dark&hide_border=true&no-bg=true&no-frame=true&langs_count=6&layout=compact"/>
+        <img alt="Matias GitHub Stats" height= "170em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=MatiasKV0&theme=chartreuse-dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" />
+        <img alt="Matias Top Languages" height= "170em"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MatiasKV0&theme=chartreuse-dark&hide_border=true&no-bg=true&no-frame=true&langs_count=6&layout=compact"/>
     </div>
 </div>
